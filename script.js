@@ -1,4 +1,4 @@
-const descriptions = ["student", "\"software developer\"", "really cool fella", "idiot"];
+const descriptions = ["student", "\"game developer\"", "really cool fella", "idiot", "weirdo"];
 let currentIndex = 0;
 let charIndex = 0;
 let isDeleting = false;
